@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+
+# Training outputs & checkpoints
+results/
+logs/
+
+# Model weights / HF & wandb cache
+*.bin
+*.safetensors
+wandb/
+
+# Environment
+.env
+
+# OS
+.DS_Store
