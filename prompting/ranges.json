@@ -1,0 +1,194 @@
+{
+  "prompt_1": {
+    "overall": {
+      "min": 2,
+      "max": 12
+    },
+    "content": {
+      "min": 1,
+      "max": 6
+    },
+    "organization": {
+      "min": 1,
+      "max": 6
+    },
+    "word choice": {
+      "min": 1,
+      "max": 6
+    },
+    "sentence fluency": {
+      "min": 1,
+      "max": 6
+    },
+    "conventions": {
+      "min": 1,
+      "max": 6
+    }
+  },
+  "prompt_2": {
+    "overall": {
+      "min": 1,
+      "max": 6
+    },
+    "content": {
+      "min": 1,
+      "max": 6
+    },
+    "organization": {
+      "min": 1,
+      "max": 6
+    },
+    "word choice": {
+      "min": 1,
+      "max": 6
+    },
+    "sentence fluency": {
+      "min": 1,
+      "max": 6
+    },
+    "conventions": {
+      "min": 1,
+      "max": 6
+    }
+  },
+  "prompt_3": {
+    "overall": {
+      "min": 0,
+      "max": 3
+    },
+    "content": {
+      "min": 0,
+      "max": 3
+    },
+    "prompt adherence": {
+      "min": 0,
+      "max": 3
+    },
+    "language": {
+      "min": 0,
+      "max": 3
+    },
+    "narrativity": {
+      "min": 0,
+      "max": 3
+    }
+  },
+  "prompt_4": {
+    "overall": {
+      "min": 0,
+      "max": 3
+    },
+    "content": {
+      "min": 0,
+      "max": 3
+    },
+    "prompt adherence": {
+      "min": 0,
+      "max": 3
+    },
+    "language": {
+      "min": 0,
+      "max": 3
+    },
+    "narrativity": {
+      "min": 0,
+      "max": 3
+    }
+  },
+  "prompt_5": {
+    "overall": {
+      "min": 0,
+      "max": 4
+    },
+    "content": {
+      "min": 0,
+      "max": 4
+    },
+    "prompt adherence": {
+      "min": 0,
+      "max": 4
+    },
+    "language": {
+      "min": 0,
+      "max": 4
+    },
+    "narrativity": {
+      "min": 0,
+      "max": 4
+    }
+  },
+  "prompt_6": {
+    "overall": {
+      "min": 0,
+      "max": 4
+    },
+    "content": {
+      "min": 0,
+      "max": 4
+    },
+    "prompt adherence": {
+      "min": 0,
+      "max": 4
+    },
+    "language": {
+      "min": 0,
+      "max": 4
+    },
+    "narrativity": {
+      "min": 0,
+      "max": 4
+    }
+  },
+  "prompt_7": {
+    "overall": {
+      "min": 0,
+      "max": 24
+    },
+    "content": {
+      "min": 0,
+      "max": 6
+    },
+    "organization": {
+      "min": 0,
+      "max": 6
+    },
+    "style": {
+      "min": 0,
+      "max": 6
+    },
+    "conventions": {
+      "min": 0,
+      "max": 6
+    }
+  },
+  "prompt_8": {
+    "overall": {
+      "min": 0,
+      "max": 60
+    },
+    "content": {
+      "min": 2,
+      "max": 12
+    },
+    "organization": {
+      "min": 2,
+      "max": 12
+    },
+    "voice": {
+      "min": 2,
+      "max": 12
+    },
+    "word choice": {
+      "min": 2,
+      "max": 12
+    },
+    "sentence fluency": {
+      "min": 2,
+      "max": 12
+    },
+    "conventions": {
+      "min": 2,
+      "max": 12
+    }
+  }
+}

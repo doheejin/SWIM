@@ -1,0 +1,26 @@
+# Core Logic
+anthropic
+python-dotenv
+tqdm
+
+# Data Handling
+pandas==2.0.3
+numpy==1.23.5
+datasets>=2.16.0
+fsspec==2023.10.0
+multiprocess>=0.70.15
+
+# ML & Modeling
+transformers==4.31.0
+scikit-learn==1.2.2
+accelerate
+sentencepiece
+protobuf
+tiktoken
+
+# Deep Learning (pin a CUDA build matching your system, e.g. via --index-url)
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+huggingface_hub
