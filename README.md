@@ -1,6 +1,9 @@
 # SWIM
 
-Official repository for the EMNLP paper, "SWIM: Student Writing Simulation via Proficiency-Conditioned Generation"
+
+![arXiv](https://img.shields.io/badge/arXiv-2609.05245-b31b1b.svg) [![EMNLP 2026](https://img.shields.io/badge/EMNLP-2026-4b8bbe.svg)](https://2026.emnlp.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Official repository for [**SWIM: Student Writing Simulation via Proficiency-Conditioned Generation**](https://arxiv.org/pdf/2609.03215) paper at EMNLP 2026 Findings.
 
 Given a writing prompt and a target trait-level proficiency profile, SWIM generates a student essay that reflects that profile, and measures profile alignment with a frozen multi-trait automated essay scoring (AES) model (ArTS). This repository contains the baseline (rubric-grounded prompting), SFT, and GRPO pipelines evaluated in the paper.
 
